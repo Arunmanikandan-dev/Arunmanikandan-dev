@@ -2,8 +2,6 @@
 
 # Hi there! 👋 I'm Arunmanikandan C
 
-![Profile Banner](https://your-image-link.com/banner.png)
-
 💡 *"Building intelligent systems, one line of code at a time!"* 🚀
 
 ## 🚀 About Me
