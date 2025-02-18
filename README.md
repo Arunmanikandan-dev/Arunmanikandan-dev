@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Arunmanikandan C
-![image](https://png.pngtree.com/background/20210710/original/pngtree-blue-digital-technology-electronic-banner-picture-image_1033187.jpg)
-
+![Image](banner.png)
 💡 *"one line of code at a time!"* 🚀
 
 ## 🚀 About Me
