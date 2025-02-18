@@ -1,8 +1,7 @@
-# Arunmanikandan C
-
 # Hi there! 👋 I'm Arunmanikandan C
+![image](https://png.pngtree.com/background/20210710/original/pngtree-blue-digital-technology-electronic-banner-picture-image_1033187.jpg)
 
-💡 *"Building intelligent systems, one line of code at a time!"* 🚀
+💡 *"one line of code at a time!"* 🚀
 
 ## 🚀 About Me
 I'm a passionate **robotics & AI** enthusiast working with **ROS 2, Ignition Gazebo, Webots, and OpenCV**. Always exploring **motion planning, computer vision, and reinforcement learning**!
