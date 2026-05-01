@@ -1,10 +1,17 @@
-# Hi there! 👋 I'm Arunmanikandan C
-
+# Hi there! 👋 I'm Arunmanikandan C\
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,linux,ros,opencv,tensorflow,fastapi,supabase,bash,docker,githubactions,js,react,r&perline=14" alt="My Skills"/>
   </a>
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=100&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A7%A0;Robotics+Enthusiast+%F0%9F%A4%96;Deep+Learning+Specialist+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ARUNMANIKANDAN-C&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ARUNMANIKANDAN-C?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ARUNMANIKANDAN-C?label=Stars&style=for-the-badge&color=00d4ff" alt="GitHub Stars" />
+</div>
 
 💡 *"One line of code at a time!"* 🚀
 
