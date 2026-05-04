@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Arunmanikandan C
+# Hi there! 👋 I'm Arunmanikandan 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=200&section=header&text=Arunmanikandan%20C&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=200&section=header&text=Arunmanikandan%20&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Header" />
 </div>
 
 <div align="center">
@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ARUNMANIKANDAN-C?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ARUNMANIKANDAN-C?label=Total%20Stars&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=ARUNMANIKANDAN-C&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arunmanikandan-dev?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Arunmanikandan-dev?label=Total%20Stars&style=for-the-badge&color=00d4ff&logo=github" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Arunmanikandan-dev&color=00d4ff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -48,31 +48,27 @@ I'm an **AI & Robotics** enthusiast specializing in building intelligent systems
 ## 📊 GitHub Analytics
 <div align="center">
   <!-- Using the fast-stats mirror for better uptime -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ARUNMANIKANDAN-C&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arunmanikandan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   
   <!-- Alternate Streak URL that has better 2026 stability -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARUNMANIKANDAN-C&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunmanikandan-dev&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARUNMANIKANDAN-C&theme=tokyonight&column=7&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunmanikandan-dev&theme=tokyonight&column=7&no-bg=true" alt="Trophies" />
 </p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNMANIKANDAN-C&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400px" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arunmanikandan-dev&theme=tokyonight&layout=compact" width="400px" alt="Top Languages" />
 </div>
 ---
 
 ## 📫 Connect with me
 <div align="center">
-  <a href="https://www.linkedin.com/in/ARUNMANIKANDAN-C" target="_blank">
+  <a href="https://www.linkedin.com/in/arunmanikandan-c-735a96247" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/ARUNMANIKANDAN-C/" target="_blank">
+  <a href="https://leetcode.com/u/Arunmanikandan-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:arunmanikandan.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
